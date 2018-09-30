@@ -22,7 +22,7 @@ with accessing your web apps performance. You can use it to simulate slow 3g net
 
 I have ran audits a few times during the development of this website and I'm pretty happy with the results:
 
-\[Lighthouse performance metrics](./blog_assets/lighthouse.png "Lighhouse performance metrics")
+![Lighthouse performance metrics](./blog_assets/lighthouse.png "Lighhouse performance metrics")
 
 I think it's looking pretty good! There are some places to improve, notably in the accessibility area. Right now it's being degraded as a few elements are not nested correctly which is necessary screen readers, for example a `<li>` inside a `<div>` is a no go. Some of them are beyond my control, for example assets not being served via HTTP/2. 
 
