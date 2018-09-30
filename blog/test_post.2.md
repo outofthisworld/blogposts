@@ -1,11 +1,17 @@
 ---
-title: "Aiming for the perfect lighthouse score"
-url: "my_second_blog_post"
-image: "2.jpeg"
-time_to_read: "12"
-date: "2018-04-10"
-abstract: "Lighthouse is handy, and I want to clock it. Lighthouse is a website auditing tool baked into google chrome that can help with accessing your web apps performance. You can use it to simulate slow 3g networks by and also run your web app on a simulated mobile device with a slower cpu. It provides some decent metrics and performance indicators showing you where you can improve you web app."
-tags: "react,web development,react16,javascript"
+title: Aiming for the perfect lighthouse score
+date: '2018-04-10'
+url: perfect_lighthouse_score
+time_to_read: '12'
+abstract: >-
+  Lighthouse is handy, and I want to clock it. Lighthouse is a website auditing
+  tool baked into google chrome that can help with accessing your web apps
+  performance. You can use it to simulate slow 3g networks by and also run your
+  web app on a simulated mobile device with a slower cpu. It provides some
+  decent metrics and performance indicators showing you where you can improve
+  you web app.
+image: 2.jpeg
+tags: 'react,web development,react16,javascript'
 ---
 
 
